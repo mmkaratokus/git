@@ -5,13 +5,13 @@ gel
 ayşe
 hazal
 muhammed
-<<<<<<< HEAD
 seda
 ilayda
 a dosyası açıldı
 oh ilk açıldı
 a
 b
-=======
 seda
->>>>>>> parent of 0d3d9a8 (stash oldu)
+
+
+agla
